@@ -1,6 +1,6 @@
-# Hi, I'm Muhammad Alief Akmal Shah bin Mahzan 👋
+# Hi, I'm Muhammad Alief Akmal Shah 👋
 
-<img src="https://github.com/aliefakmal15/aliefakmal15/blob/main/Gambar%20Passport%20(Putih).jpg" width="150" align="right" alt="Alief's Picture" style="border-radius:10px;"/>
+<img src="[YOUR_IMAGE_LINK_HERE]" width="150" align="right" alt="Alief's Picture" style="border-radius:10px;"/>
 
 🎓 **Aspiring Data Engineer** currently studying at **Universiti Teknologi Malaysia (UTM)**  
 💡 Passionate about solving real-world problems through data analysis, extracting meaningful insights from datasets, and using data-driven approaches to support decision-making.
@@ -25,4 +25,27 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Software & Data:**
-!
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+**Core Competencies:**
+*Problem-Solving • Analytical Thinking • Logical Reasoning • Teamwork and Collaboration • Time Management • Adaptability*
+
+---
+
+## 🏆 Achievements & Extracurriculars
+
+- 🥈 **Silver Award** - *Natural Sustainability Innovation Challenge 2023 (NaSIC)*: Participated in an innovation challenge focused on sustainability and creative problem-solving.
+- 💻 **Arduino Showcase**: Gained exposure to microcontroller technology and its practical applications.
+- 🏃‍♂️ **Student Sports Committee**: Supported the organization and coordination of sports-related programmes, building leadership and teamwork skills.
+
+---
+
+## 🌐 Contact Me
+
+<p align="left">
+  <a href="mailto:aliefakmalshahmahzan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+⚡ *Languages: Malay (Proficient), English (Intermediate), Japanese (Basic)*
