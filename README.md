@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Alief Akmal Shah bin Mahzan 👋
 
-<img src="[YOUR_IMAGE_LINK_HERE]" width="150" align="right" alt="Alief's Picture" style="border-radius:10px;"/>
+<img src="https://github.com/aliefakmal15/aliefakmal15/blob/main/Gambar%20Passport%20(Putih).jpg" width="150" align="right" alt="Alief's Picture" style="border-radius:10px;"/>
 
 🎓 **Aspiring Data Engineer** currently studying at **Universiti Teknologi Malaysia (UTM)**  
 💡 Passionate about solving real-world problems through data analysis, extracting meaningful insights from datasets, and using data-driven approaches to support decision-making.
